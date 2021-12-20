@@ -1,0 +1,53 @@
+﻿@model IEnumerable<Drake_Travel_Light.Models.Voo>
+
+@{
+    ViewData["Title"] = "Voos";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Destino)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Assento)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Data_ida)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Data_volta)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Destino)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Assento)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Data_ida)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Data_volta)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.Id_Voo">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.Id_Voo">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.Id_Voo">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

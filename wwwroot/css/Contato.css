@@ -1,0 +1,89 @@
+﻿.container {
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.pr-5 {
+    padding-right: 3rem !important;
+}
+
+.mb-5 {
+    padding-bottom: 3rem !important;
+}
+
+.border-right {
+    border-right: 3rem !important;
+}
+
+.row {
+    display: flex;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+h2, h3
+.h2, .h3 {
+    font-family: "Poppins", sans-serif;
+    color: #000;
+}
+
+.text-black {
+    color: #000;
+}
+
+.content {
+    padding: 7rem 0;
+}
+
+.form-group {
+    margin-bottom: 1rem;
+}
+
+@media (min-width: 768px) {
+
+    .col-md-6 {
+        -webkit-box-flex: 0;
+        flex: 0 0 50%;
+        max-width: 50%;
+    }
+}
+
+h2 {
+    font-size: 3.5rem;
+    font-weight: 700;
+}
+
+h3 {
+    font-size: 2rem;
+    font-weight: 700;
+}
+
+.form-control {
+    border: none;
+    border: 1px solid #d9d9d9;
+    border-radius: 0;
+}
+
+    .form-control:active, .form-control:focus {
+        outline: none;
+        -webkit-box-shadow: none;
+        box-shadow: none;
+        border-color: #000;
+    }
+
+.col-form-label {
+    color: #000;
+}
+
+.btn, .form-control {
+    height: 55px;
+}
+
+    .btn:active, .btn:focus {
+        outline: none;
+        -webkit-box-shadow: none;
+        box-shadow: none;
+    }

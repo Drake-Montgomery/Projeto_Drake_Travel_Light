@@ -1,0 +1,325 @@
+﻿++Solution 'Drake_Travel_Light' ‎(1 of 1 project)
+i:{00000000-0000-0000-0000-000000000000}:Drake_Travel_Light.sln
+++Drake_Travel_Light
+i:{00000000-0000-0000-0000-000000000000}:Drake_Travel_Light
+++Connected Services 
+i:{9c98221b-b914-40fe-9e49-0333b732be18}:>955
+++Dependencies
+i:{9c98221b-b914-40fe-9e49-0333b732be18}:>954
+++Properties
+i:{9c98221b-b914-40fe-9e49-0333b732be18}:c:\users\remakker\desktop\c# - mvc\drake_travel_light\properties\
+++launchSettings.json
+i:{9c98221b-b914-40fe-9e49-0333b732be18}:c:\users\remakker\desktop\c# - mvc\drake_travel_light\properties\launchsettings.json
+++wwwroot
+i:{9c98221b-b914-40fe-9e49-0333b732be18}:c:\users\remakker\desktop\c# - mvc\drake_travel_light\wwwroot\
+++css
+i:{9c98221b-b914-40fe-9e49-0333b732be18}:c:\users\remakker\desktop\c# - mvc\drake_travel_light\wwwroot\css\
+i:{9c98221b-b914-40fe-9e49-0333b732be18}:c:\users\remakker\desktop\c# - mvc\drake_travel_light\wwwroot\lib\bootstrap\dist\css\
+++Home.css
+i:{9c98221b-b914-40fe-9e49-0333b732be18}:c:\users\remakker\desktop\c# - mvc\drake_travel_light\wwwroot\css\home.css
+++Promocao.css
+i:{9c98221b-b914-40fe-9e49-0333b732be18}:c:\users\remakker\desktop\c# - mvc\drake_travel_light\wwwroot\css\promocao.css
+++site.css
+i:{9c98221b-b914-40fe-9e49-0333b732be18}:c:\users\remakker\desktop\c# - mvc\drake_travel_light\wwwroot\css\site.css
+++Img
+i:{9c98221b-b914-40fe-9e49-0333b732be18}:c:\users\remakker\desktop\c# - mvc\drake_travel_light\wwwroot\img\
+++airport_02.jpg
+i:{9c98221b-b914-40fe-9e49-0333b732be18}:c:\users\remakker\desktop\c# - mvc\drake_travel_light\wwwroot\img\airport_02.jpg
+++big-ben.jpg
+i:{9c98221b-b914-40fe-9e49-0333b732be18}:c:\users\remakker\desktop\c# - mvc\drake_travel_light\wwwroot\img\big-ben.jpg
+++China.jpg
+i:{9c98221b-b914-40fe-9e49-0333b732be18}:c:\users\remakker\desktop\c# - mvc\drake_travel_light\wwwroot\img\china.jpg
+++Dabai_02.jpg
+i:{9c98221b-b914-40fe-9e49-0333b732be18}:c:\users\remakker\desktop\c# - mvc\drake_travel_light\wwwroot\img\dabai_02.jpg
+++Dubai.jpg
+i:{9c98221b-b914-40fe-9e49-0333b732be18}:c:\users\remakker\desktop\c# - mvc\drake_travel_light\wwwroot\img\dubai.jpg
+++dubai_01.jpg
+i:{9c98221b-b914-40fe-9e49-0333b732be18}:c:\users\remakker\desktop\c# - mvc\drake_travel_light\wwwroot\img\dubai_01.jpg
+++egypt.jpg
+i:{9c98221b-b914-40fe-9e49-0333b732be18}:c:\users\remakker\desktop\c# - mvc\drake_travel_light\wwwroot\img\egypt.jpg
+++food_01.jpg
+i:{9c98221b-b914-40fe-9e49-0333b732be18}:c:\users\remakker\desktop\c# - mvc\drake_travel_light\wwwroot\img\food_01.jpg
+++Golden_gate.jpg
+i:{9c98221b-b914-40fe-9e49-0333b732be18}:c:\users\remakker\desktop\c# - mvc\drake_travel_light\wwwroot\img\golden_gate.jpg
+++greece.JPG
+i:{9c98221b-b914-40fe-9e49-0333b732be18}:c:\users\remakker\desktop\c# - mvc\drake_travel_light\wwwroot\img\greece.jpg
+++India_01.jpg
+i:{9c98221b-b914-40fe-9e49-0333b732be18}:c:\users\remakker\desktop\c# - mvc\drake_travel_light\wwwroot\img\india_01.jpg
+++japan.jpg
+i:{9c98221b-b914-40fe-9e49-0333b732be18}:c:\users\remakker\desktop\c# - mvc\drake_travel_light\wwwroot\img\japan.jpg
+++London_by_Night_200.jpg
+i:{9c98221b-b914-40fe-9e49-0333b732be18}:c:\users\remakker\desktop\c# - mvc\drake_travel_light\wwwroot\img\london_by_night_200.jpg
+++losangeles-200x200.jpg
+i:{9c98221b-b914-40fe-9e49-0333b732be18}:c:\users\remakker\desktop\c# - mvc\drake_travel_light\wwwroot\img\losangeles-200x200.jpg
+++meet.jpg
+i:{9c98221b-b914-40fe-9e49-0333b732be18}:c:\users\remakker\desktop\c# - mvc\drake_travel_light\wwwroot\img\meet.jpg
+++Moscow.jpg
+i:{9c98221b-b914-40fe-9e49-0333b732be18}:c:\users\remakker\desktop\c# - mvc\drake_travel_light\wwwroot\img\moscow.jpg
+++Mountains.jpg
+i:{9c98221b-b914-40fe-9e49-0333b732be18}:c:\users\remakker\desktop\c# - mvc\drake_travel_light\wwwroot\img\mountains.jpg
+++rio_de_janeiro.jpg
+i:{9c98221b-b914-40fe-9e49-0333b732be18}:c:\users\remakker\desktop\c# - mvc\drake_travel_light\wwwroot\img\rio_de_janeiro.jpg
+++Rome-italy.jpeg
+i:{9c98221b-b914-40fe-9e49-0333b732be18}:c:\users\remakker\desktop\c# - mvc\drake_travel_light\wwwroot\img\rome-italy.jpeg
+++ticket.jpg
+i:{9c98221b-b914-40fe-9e49-0333b732be18}:c:\users\remakker\desktop\c# - mvc\drake_travel_light\wwwroot\img\ticket.jpg
+++js
+i:{9c98221b-b914-40fe-9e49-0333b732be18}:c:\users\remakker\desktop\c# - mvc\drake_travel_light\wwwroot\js\
+i:{9c98221b-b914-40fe-9e49-0333b732be18}:c:\users\remakker\desktop\c# - mvc\drake_travel_light\wwwroot\lib\bootstrap\dist\js\
+++lib
+i:{9c98221b-b914-40fe-9e49-0333b732be18}:c:\users\remakker\desktop\c# - mvc\drake_travel_light\wwwroot\lib\
+++favicon.ico
+i:{9c98221b-b914-40fe-9e49-0333b732be18}:c:\users\remakker\desktop\c# - mvc\drake_travel_light\wwwroot\favicon.ico
+++Controllers
+i:{9c98221b-b914-40fe-9e49-0333b732be18}:c:\users\remakker\desktop\c# - mvc\drake_travel_light\controllers\
+++Migrations
+i:{9c98221b-b914-40fe-9e49-0333b732be18}:c:\users\remakker\desktop\c# - mvc\drake_travel_light\migrations\
+++Models
+i:{9c98221b-b914-40fe-9e49-0333b732be18}:c:\users\remakker\desktop\c# - mvc\drake_travel_light\models\
+++Views
+i:{9c98221b-b914-40fe-9e49-0333b732be18}:c:\users\remakker\desktop\c# - mvc\drake_travel_light\views\
+++Clientes
+i:{9c98221b-b914-40fe-9e49-0333b732be18}:c:\users\remakker\desktop\c# - mvc\drake_travel_light\views\clientes\
+++Home
+i:{9c98221b-b914-40fe-9e49-0333b732be18}:c:\users\remakker\desktop\c# - mvc\drake_travel_light\views\home\
+++Index.cshtml
+i:{9c98221b-b914-40fe-9e49-0333b732be18}:c:\users\remakker\desktop\c# - mvc\drake_travel_light\views\home\index.cshtml
+i:{9c98221b-b914-40fe-9e49-0333b732be18}:c:\users\remakker\desktop\c# - mvc\drake_travel_light\views\clientes\index.cshtml
+i:{9c98221b-b914-40fe-9e49-0333b732be18}:c:\users\remakker\desktop\c# - mvc\drake_travel_light\views\voos\index.cshtml
+++Privacy.cshtml
+i:{9c98221b-b914-40fe-9e49-0333b732be18}:c:\users\remakker\desktop\c# - mvc\drake_travel_light\views\home\privacy.cshtml
+++Promocao.cshtml
+i:{9c98221b-b914-40fe-9e49-0333b732be18}:c:\users\remakker\desktop\c# - mvc\drake_travel_light\views\home\promocao.cshtml
+++Shared
+i:{9c98221b-b914-40fe-9e49-0333b732be18}:c:\users\remakker\desktop\c# - mvc\drake_travel_light\views\shared\
+++_Layout.cshtml
+i:{9c98221b-b914-40fe-9e49-0333b732be18}:c:\users\remakker\desktop\c# - mvc\drake_travel_light\views\shared\_layout.cshtml
+++_ValidationScriptsPartial.cshtml
+i:{9c98221b-b914-40fe-9e49-0333b732be18}:c:\users\remakker\desktop\c# - mvc\drake_travel_light\views\shared\_validationscriptspartial.cshtml
+++Error.cshtml
+i:{9c98221b-b914-40fe-9e49-0333b732be18}:c:\users\remakker\desktop\c# - mvc\drake_travel_light\views\shared\error.cshtml
+++Voos
+i:{9c98221b-b914-40fe-9e49-0333b732be18}:c:\users\remakker\desktop\c# - mvc\drake_travel_light\views\voos\
+++_ViewImports.cshtml
+i:{9c98221b-b914-40fe-9e49-0333b732be18}:c:\users\remakker\desktop\c# - mvc\drake_travel_light\views\_viewimports.cshtml
+++_ViewStart.cshtml
+i:{9c98221b-b914-40fe-9e49-0333b732be18}:c:\users\remakker\desktop\c# - mvc\drake_travel_light\views\_viewstart.cshtml
+++appsettings.json
+i:{9c98221b-b914-40fe-9e49-0333b732be18}:c:\users\remakker\desktop\c# - mvc\drake_travel_light\appsettings.json
+++Program.cs
+i:{9c98221b-b914-40fe-9e49-0333b732be18}:c:\users\remakker\desktop\c# - mvc\drake_travel_light\program.cs
+++No service dependencies discovered
+i:{9c98221b-b914-40fe-9e49-0333b732be18}:>956
+++Analyzers
+i:{9c98221b-b914-40fe-9e49-0333b732be18}:analyzers
+++Frameworks
+i:{9c98221b-b914-40fe-9e49-0333b732be18}:frameworks
+++Packages
+i:{9c98221b-b914-40fe-9e49-0333b732be18}:packages
+++site.js
+i:{9c98221b-b914-40fe-9e49-0333b732be18}:c:\users\remakker\desktop\c# - mvc\drake_travel_light\wwwroot\js\site.js
+++bootstrap
+i:{9c98221b-b914-40fe-9e49-0333b732be18}:c:\users\remakker\desktop\c# - mvc\drake_travel_light\wwwroot\lib\bootstrap\
+++jquery
+i:{9c98221b-b914-40fe-9e49-0333b732be18}:c:\users\remakker\desktop\c# - mvc\drake_travel_light\wwwroot\lib\jquery\
+++jquery-validation
+i:{9c98221b-b914-40fe-9e49-0333b732be18}:c:\users\remakker\desktop\c# - mvc\drake_travel_light\wwwroot\lib\jquery-validation\
+++jquery-validation-unobtrusive
+i:{9c98221b-b914-40fe-9e49-0333b732be18}:c:\users\remakker\desktop\c# - mvc\drake_travel_light\wwwroot\lib\jquery-validation-unobtrusive\
+++ClientesController.cs
+i:{9c98221b-b914-40fe-9e49-0333b732be18}:c:\users\remakker\desktop\c# - mvc\drake_travel_light\controllers\clientescontroller.cs
+++HomeController.cs
+i:{9c98221b-b914-40fe-9e49-0333b732be18}:c:\users\remakker\desktop\c# - mvc\drake_travel_light\controllers\homecontroller.cs
+++VoosController.cs
+i:{9c98221b-b914-40fe-9e49-0333b732be18}:c:\users\remakker\desktop\c# - mvc\drake_travel_light\controllers\vooscontroller.cs
+++20211212191842_Drake_DB_Migration.cs
+i:{9c98221b-b914-40fe-9e49-0333b732be18}:c:\users\remakker\desktop\c# - mvc\drake_travel_light\migrations\20211212191842_drake_db_migration.cs
+++ContextModelSnapshot.cs
+i:{9c98221b-b914-40fe-9e49-0333b732be18}:c:\users\remakker\desktop\c# - mvc\drake_travel_light\migrations\contextmodelsnapshot.cs
+++Cliente.cs
+i:{9c98221b-b914-40fe-9e49-0333b732be18}:c:\users\remakker\desktop\c# - mvc\drake_travel_light\models\cliente.cs
+++Compra.cs
+i:{9c98221b-b914-40fe-9e49-0333b732be18}:c:\users\remakker\desktop\c# - mvc\drake_travel_light\models\compra.cs
+++Context.cs
+i:{9c98221b-b914-40fe-9e49-0333b732be18}:c:\users\remakker\desktop\c# - mvc\drake_travel_light\models\context.cs
+++ErrorViewModel.cs
+i:{9c98221b-b914-40fe-9e49-0333b732be18}:c:\users\remakker\desktop\c# - mvc\drake_travel_light\models\errorviewmodel.cs
+++Voo.cs
+i:{9c98221b-b914-40fe-9e49-0333b732be18}:c:\users\remakker\desktop\c# - mvc\drake_travel_light\models\voo.cs
+++Create.cshtml
+i:{9c98221b-b914-40fe-9e49-0333b732be18}:c:\users\remakker\desktop\c# - mvc\drake_travel_light\views\clientes\create.cshtml
+i:{9c98221b-b914-40fe-9e49-0333b732be18}:c:\users\remakker\desktop\c# - mvc\drake_travel_light\views\voos\create.cshtml
+++Delete.cshtml
+i:{9c98221b-b914-40fe-9e49-0333b732be18}:c:\users\remakker\desktop\c# - mvc\drake_travel_light\views\clientes\delete.cshtml
+i:{9c98221b-b914-40fe-9e49-0333b732be18}:c:\users\remakker\desktop\c# - mvc\drake_travel_light\views\voos\delete.cshtml
+++Details.cshtml
+i:{9c98221b-b914-40fe-9e49-0333b732be18}:c:\users\remakker\desktop\c# - mvc\drake_travel_light\views\clientes\details.cshtml
+i:{9c98221b-b914-40fe-9e49-0333b732be18}:c:\users\remakker\desktop\c# - mvc\drake_travel_light\views\voos\details.cshtml
+++Edit.cshtml
+i:{9c98221b-b914-40fe-9e49-0333b732be18}:c:\users\remakker\desktop\c# - mvc\drake_travel_light\views\clientes\edit.cshtml
+i:{9c98221b-b914-40fe-9e49-0333b732be18}:c:\users\remakker\desktop\c# - mvc\drake_travel_light\views\voos\edit.cshtml
+++_Layout.cshtml.css
+i:{9c98221b-b914-40fe-9e49-0333b732be18}:c:\users\remakker\desktop\c# - mvc\drake_travel_light\views\shared\_layout.cshtml.css
+++appsettings.Development.json
+i:{9c98221b-b914-40fe-9e49-0333b732be18}:c:\users\remakker\desktop\c# - mvc\drake_travel_light\appsettings.development.json
+++MessagePackAnalyzer
+i:{9c98221b-b914-40fe-9e49-0333b732be18}:c:\users\remakker\.nuget\packages\messagepackanalyzer\2.1.152\analyzers\dotnet\messagepackanalyzer.dll
+++Microsoft.AspNetCore.Analyzers
+i:{9c98221b-b914-40fe-9e49-0333b732be18}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.App.Analyzers
+i:{9c98221b-b914-40fe-9e49-0333b732be18}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+++Microsoft.AspNetCore.App.CodeFixes
+i:{9c98221b-b914-40fe-9e49-0333b732be18}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{9c98221b-b914-40fe-9e49-0333b732be18}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{9c98221b-b914-40fe-9e49-0333b732be18}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.AspNetCore.Razor.Internal.SourceGenerator.Transport
+i:{9c98221b-b914-40fe-9e49-0333b732be18}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.internal.sourcegenerator.transport.dll
+++Microsoft.CodeAnalysis.Analyzers
+i:{9c98221b-b914-40fe-9e49-0333b732be18}:c:\users\remakker\.nuget\packages\microsoft.codeanalysis.analyzers\3.3.2\analyzers\dotnet\cs\microsoft.codeanalysis.analyzers.dll
+++Microsoft.CodeAnalysis.CSharp.Analyzers
+i:{9c98221b-b914-40fe-9e49-0333b732be18}:c:\users\remakker\.nuget\packages\microsoft.codeanalysis.analyzers\3.3.2\analyzers\dotnet\cs\microsoft.codeanalysis.csharp.analyzers.dll
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{9c98221b-b914-40fe-9e49-0333b732be18}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{9c98221b-b914-40fe-9e49-0333b732be18}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++Microsoft.EntityFrameworkCore.Analyzers
+i:{9c98221b-b914-40fe-9e49-0333b732be18}:c:\users\remakker\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.0\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+++Microsoft.Extensions.Logging.Generators
+i:{9c98221b-b914-40fe-9e49-0333b732be18}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+++Microsoft.NET.Sdk.Razor.SourceGenerators
+i:{9c98221b-b914-40fe-9e49-0333b732be18}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+++System.Text.Json.SourceGeneration
+i:{9c98221b-b914-40fe-9e49-0333b732be18}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.0\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+++Microsoft.AspNetCore.App
+i:{9c98221b-b914-40fe-9e49-0333b732be18}:c:\users\remakker\desktop\c# - mvc\drake_travel_light\microsoft.aspnetcore.app
+++Microsoft.NETCore.App
+i:{9c98221b-b914-40fe-9e49-0333b732be18}:c:\users\remakker\desktop\c# - mvc\drake_travel_light\microsoft.netcore.app
+++Microsoft.EntityFrameworkCore (6.0.0)
+i:{9c98221b-b914-40fe-9e49-0333b732be18}:>967
+++Microsoft.EntityFrameworkCore.SqlServer (6.0.0)
+i:{9c98221b-b914-40fe-9e49-0333b732be18}:>968
+++Microsoft.EntityFrameworkCore.Tools (6.0.0)
+i:{9c98221b-b914-40fe-9e49-0333b732be18}:>969
+++Microsoft.VisualStudio.Web.CodeGeneration.Design (6.0.1)
+i:{9c98221b-b914-40fe-9e49-0333b732be18}:>970
+++dist
+i:{9c98221b-b914-40fe-9e49-0333b732be18}:c:\users\remakker\desktop\c# - mvc\drake_travel_light\wwwroot\lib\bootstrap\dist\
+i:{9c98221b-b914-40fe-9e49-0333b732be18}:c:\users\remakker\desktop\c# - mvc\drake_travel_light\wwwroot\lib\jquery\dist\
+i:{9c98221b-b914-40fe-9e49-0333b732be18}:c:\users\remakker\desktop\c# - mvc\drake_travel_light\wwwroot\lib\jquery-validation\dist\
+++LICENSE
+i:{9c98221b-b914-40fe-9e49-0333b732be18}:c:\users\remakker\desktop\c# - mvc\drake_travel_light\wwwroot\lib\bootstrap\license
+++LICENSE.txt
+i:{9c98221b-b914-40fe-9e49-0333b732be18}:c:\users\remakker\desktop\c# - mvc\drake_travel_light\wwwroot\lib\jquery\license.txt
+i:{9c98221b-b914-40fe-9e49-0333b732be18}:c:\users\remakker\desktop\c# - mvc\drake_travel_light\wwwroot\lib\jquery-validation-unobtrusive\license.txt
+++LICENSE.md
+i:{9c98221b-b914-40fe-9e49-0333b732be18}:c:\users\remakker\desktop\c# - mvc\drake_travel_light\wwwroot\lib\jquery-validation\license.md
+++jquery.validate.unobtrusive.js
+i:{9c98221b-b914-40fe-9e49-0333b732be18}:c:\users\remakker\desktop\c# - mvc\drake_travel_light\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js
+++20211212191842_Drake_DB_Migration.Designer.cs
+i:{9c98221b-b914-40fe-9e49-0333b732be18}:c:\users\remakker\desktop\c# - mvc\drake_travel_light\migrations\20211212191842_drake_db_migration.designer.cs
+++jquery.js
+i:{9c98221b-b914-40fe-9e49-0333b732be18}:c:\users\remakker\desktop\c# - mvc\drake_travel_light\wwwroot\lib\jquery\dist\jquery.js
+++additional-methods.js
+i:{9c98221b-b914-40fe-9e49-0333b732be18}:c:\users\remakker\desktop\c# - mvc\drake_travel_light\wwwroot\lib\jquery-validation\dist\additional-methods.js
+++jquery.validate.js
+i:{9c98221b-b914-40fe-9e49-0333b732be18}:c:\users\remakker\desktop\c# - mvc\drake_travel_light\wwwroot\lib\jquery-validation\dist\jquery.validate.js
+++jquery.validate.unobtrusive.min.js
+i:{9c98221b-b914-40fe-9e49-0333b732be18}:c:\users\remakker\desktop\c# - mvc\drake_travel_light\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js
+++bootstrap.css
+i:{9c98221b-b914-40fe-9e49-0333b732be18}:c:\users\remakker\desktop\c# - mvc\drake_travel_light\wwwroot\lib\bootstrap\dist\css\bootstrap.css
+++bootstrap-grid.css
+i:{9c98221b-b914-40fe-9e49-0333b732be18}:c:\users\remakker\desktop\c# - mvc\drake_travel_light\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+++bootstrap-reboot.css
+i:{9c98221b-b914-40fe-9e49-0333b732be18}:c:\users\remakker\desktop\c# - mvc\drake_travel_light\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+++bootstrap-utilities.css
+i:{9c98221b-b914-40fe-9e49-0333b732be18}:c:\users\remakker\desktop\c# - mvc\drake_travel_light\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
+++bootstrap.js
+i:{9c98221b-b914-40fe-9e49-0333b732be18}:c:\users\remakker\desktop\c# - mvc\drake_travel_light\wwwroot\lib\bootstrap\dist\js\bootstrap.js
+++jquery.min.js
+i:{9c98221b-b914-40fe-9e49-0333b732be18}:c:\users\remakker\desktop\c# - mvc\drake_travel_light\wwwroot\lib\jquery\dist\jquery.min.js
+++additional-methods.min.js
+i:{9c98221b-b914-40fe-9e49-0333b732be18}:c:\users\remakker\desktop\c# - mvc\drake_travel_light\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+++jquery.validate.min.js
+i:{9c98221b-b914-40fe-9e49-0333b732be18}:c:\users\remakker\desktop\c# - mvc\drake_travel_light\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+++bootstrap.css.map
+i:{9c98221b-b914-40fe-9e49-0333b732be18}:c:\users\remakker\desktop\c# - mvc\drake_travel_light\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+++bootstrap.min.css
+i:{9c98221b-b914-40fe-9e49-0333b732be18}:c:\users\remakker\desktop\c# - mvc\drake_travel_light\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+++bootstrap.rtl.css
+i:{9c98221b-b914-40fe-9e49-0333b732be18}:c:\users\remakker\desktop\c# - mvc\drake_travel_light\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
+++bootstrap-grid.css.map
+i:{9c98221b-b914-40fe-9e49-0333b732be18}:c:\users\remakker\desktop\c# - mvc\drake_travel_light\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+++bootstrap-grid.min.css
+i:{9c98221b-b914-40fe-9e49-0333b732be18}:c:\users\remakker\desktop\c# - mvc\drake_travel_light\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+++bootstrap-grid.rtl.css
+i:{9c98221b-b914-40fe-9e49-0333b732be18}:c:\users\remakker\desktop\c# - mvc\drake_travel_light\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
+++bootstrap-reboot.css.map
+i:{9c98221b-b914-40fe-9e49-0333b732be18}:c:\users\remakker\desktop\c# - mvc\drake_travel_light\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+++bootstrap-reboot.min.css
+i:{9c98221b-b914-40fe-9e49-0333b732be18}:c:\users\remakker\desktop\c# - mvc\drake_travel_light\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+++bootstrap-reboot.rtl.css
+i:{9c98221b-b914-40fe-9e49-0333b732be18}:c:\users\remakker\desktop\c# - mvc\drake_travel_light\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
+++bootstrap-utilities.css.map
+i:{9c98221b-b914-40fe-9e49-0333b732be18}:c:\users\remakker\desktop\c# - mvc\drake_travel_light\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
+++bootstrap-utilities.min.css
+i:{9c98221b-b914-40fe-9e49-0333b732be18}:c:\users\remakker\desktop\c# - mvc\drake_travel_light\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
+++bootstrap-utilities.rtl.css
+i:{9c98221b-b914-40fe-9e49-0333b732be18}:c:\users\remakker\desktop\c# - mvc\drake_travel_light\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
+++bootstrap.bundle.js
+i:{9c98221b-b914-40fe-9e49-0333b732be18}:c:\users\remakker\desktop\c# - mvc\drake_travel_light\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+++bootstrap.esm.js
+i:{9c98221b-b914-40fe-9e49-0333b732be18}:c:\users\remakker\desktop\c# - mvc\drake_travel_light\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
+++bootstrap.js.map
+i:{9c98221b-b914-40fe-9e49-0333b732be18}:c:\users\remakker\desktop\c# - mvc\drake_travel_light\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+++bootstrap.min.js
+i:{9c98221b-b914-40fe-9e49-0333b732be18}:c:\users\remakker\desktop\c# - mvc\drake_travel_light\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+++jquery.min.map
+i:{9c98221b-b914-40fe-9e49-0333b732be18}:c:\users\remakker\desktop\c# - mvc\drake_travel_light\wwwroot\lib\jquery\dist\jquery.min.map
+++bootstrap.min.css.map
+i:{9c98221b-b914-40fe-9e49-0333b732be18}:c:\users\remakker\desktop\c# - mvc\drake_travel_light\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+++bootstrap.rtl.css.map
+i:{9c98221b-b914-40fe-9e49-0333b732be18}:c:\users\remakker\desktop\c# - mvc\drake_travel_light\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
+++bootstrap.rtl.min.css
+i:{9c98221b-b914-40fe-9e49-0333b732be18}:c:\users\remakker\desktop\c# - mvc\drake_travel_light\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
+++bootstrap-grid.min.css.map
+i:{9c98221b-b914-40fe-9e49-0333b732be18}:c:\users\remakker\desktop\c# - mvc\drake_travel_light\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+++bootstrap-grid.rtl.css.map
+i:{9c98221b-b914-40fe-9e49-0333b732be18}:c:\users\remakker\desktop\c# - mvc\drake_travel_light\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
+++bootstrap-grid.rtl.min.css
+i:{9c98221b-b914-40fe-9e49-0333b732be18}:c:\users\remakker\desktop\c# - mvc\drake_travel_light\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
+++bootstrap-reboot.min.css.map
+i:{9c98221b-b914-40fe-9e49-0333b732be18}:c:\users\remakker\desktop\c# - mvc\drake_travel_light\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+++bootstrap-reboot.rtl.css.map
+i:{9c98221b-b914-40fe-9e49-0333b732be18}:c:\users\remakker\desktop\c# - mvc\drake_travel_light\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
+++bootstrap-reboot.rtl.min.css
+i:{9c98221b-b914-40fe-9e49-0333b732be18}:c:\users\remakker\desktop\c# - mvc\drake_travel_light\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
+++bootstrap-utilities.min.css.map
+i:{9c98221b-b914-40fe-9e49-0333b732be18}:c:\users\remakker\desktop\c# - mvc\drake_travel_light\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
+++bootstrap-utilities.rtl.css.map
+i:{9c98221b-b914-40fe-9e49-0333b732be18}:c:\users\remakker\desktop\c# - mvc\drake_travel_light\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
+++bootstrap-utilities.rtl.min.css
+i:{9c98221b-b914-40fe-9e49-0333b732be18}:c:\users\remakker\desktop\c# - mvc\drake_travel_light\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
+++bootstrap.bundle.js.map
+i:{9c98221b-b914-40fe-9e49-0333b732be18}:c:\users\remakker\desktop\c# - mvc\drake_travel_light\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+++bootstrap.bundle.min.js
+i:{9c98221b-b914-40fe-9e49-0333b732be18}:c:\users\remakker\desktop\c# - mvc\drake_travel_light\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+++bootstrap.esm.js.map
+i:{9c98221b-b914-40fe-9e49-0333b732be18}:c:\users\remakker\desktop\c# - mvc\drake_travel_light\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
+++bootstrap.esm.min.js
+i:{9c98221b-b914-40fe-9e49-0333b732be18}:c:\users\remakker\desktop\c# - mvc\drake_travel_light\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
+++bootstrap.min.js.map
+i:{9c98221b-b914-40fe-9e49-0333b732be18}:c:\users\remakker\desktop\c# - mvc\drake_travel_light\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+++bootstrap.rtl.min.css.map
+i:{9c98221b-b914-40fe-9e49-0333b732be18}:c:\users\remakker\desktop\c# - mvc\drake_travel_light\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
+++bootstrap-grid.rtl.min.css.map
+i:{9c98221b-b914-40fe-9e49-0333b732be18}:c:\users\remakker\desktop\c# - mvc\drake_travel_light\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
+++bootstrap-reboot.rtl.min.css.map
+i:{9c98221b-b914-40fe-9e49-0333b732be18}:c:\users\remakker\desktop\c# - mvc\drake_travel_light\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
+++bootstrap-utilities.rtl.min.css.map
+i:{9c98221b-b914-40fe-9e49-0333b732be18}:c:\users\remakker\desktop\c# - mvc\drake_travel_light\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
+++bootstrap.bundle.min.js.map
+i:{9c98221b-b914-40fe-9e49-0333b732be18}:c:\users\remakker\desktop\c# - mvc\drake_travel_light\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+++bootstrap.esm.min.js.map
+i:{9c98221b-b914-40fe-9e49-0333b732be18}:c:\users\remakker\desktop\c# - mvc\drake_travel_light\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
