@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VtfdFXUt8jqx9TskZDyUQLxe5+yJsDzERglcDX/GrjEipRqN8seQ6WC9Dl96rH/VS3vfoS6WyoOwBJpvjObrMQ==",
+  "dgSpecHash": "nZ9Td1dsjZqwFnZqsOAJKx69iPbnAbUucn8AUe4xZz4nukO0/nC+ZIM4vRhXQ8nwSVXZpULWp2td4bk9RPtNEA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Remakker\\Desktop\\C# - MVC\\Drake_Travel_Light\\Drake_Travel_Light.csproj",
+  "projectFilePath": "C:\\Users\\Remakker\\Desktop\\COPIA DRAKE_TRAVEL'O LIGHT\\Drake_Travel_Light\\Drake_Travel_Light.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Remakker\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Remakker\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",

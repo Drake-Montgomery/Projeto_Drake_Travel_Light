@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Remakker\\Desktop\\C# - MVC\\Drake_Travel_Light\\Drake_Travel_Light.csproj": {}
+    "C:\\Users\\Remakker\\Desktop\\COPIA DRAKE_TRAVEL'O LIGHT\\Drake_Travel_Light\\Drake_Travel_Light.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Remakker\\Desktop\\C# - MVC\\Drake_Travel_Light\\Drake_Travel_Light.csproj": {
+    "C:\\Users\\Remakker\\Desktop\\COPIA DRAKE_TRAVEL'O LIGHT\\Drake_Travel_Light\\Drake_Travel_Light.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Remakker\\Desktop\\C# - MVC\\Drake_Travel_Light\\Drake_Travel_Light.csproj",
+        "projectUniqueName": "C:\\Users\\Remakker\\Desktop\\COPIA DRAKE_TRAVEL'O LIGHT\\Drake_Travel_Light\\Drake_Travel_Light.csproj",
         "projectName": "Drake_Travel_Light",
-        "projectPath": "C:\\Users\\Remakker\\Desktop\\C# - MVC\\Drake_Travel_Light\\Drake_Travel_Light.csproj",
+        "projectPath": "C:\\Users\\Remakker\\Desktop\\COPIA DRAKE_TRAVEL'O LIGHT\\Drake_Travel_Light\\Drake_Travel_Light.csproj",
         "packagesPath": "C:\\Users\\Remakker\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Remakker\\Desktop\\C# - MVC\\Drake_Travel_Light\\obj\\",
+        "outputPath": "C:\\Users\\Remakker\\Desktop\\COPIA DRAKE_TRAVEL'O LIGHT\\Drake_Travel_Light\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
